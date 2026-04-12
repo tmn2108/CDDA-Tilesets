@@ -1,0 +1,40 @@
+[
+    {
+        "id": [
+            "deflated_wheel",
+            "deflated_wheel_slick"
+        ],
+        "fg": [
+            "deflated_wheel"
+        ],
+        "rotates": false,
+        "bg": [
+        ]
+    },
+    {
+        "id": [
+            "deflated_wheel_motorbike",
+            "deflated_wheel_motorbike_or",
+            "deflated_wheel_bicycle",
+            "deflated_wheel_bicycle_or"
+        ],
+        "fg": [
+            "deflated_wheel_motorbike"
+        ],
+        "rotates": false,
+        "bg": [
+        ]
+    },
+    {
+        "id": [
+            "deflated_wheel_wide",
+            "deflated_wheel_wide_or"
+        ],
+        "fg": [
+            "deflated_wheel_wide"
+        ],
+        "rotates": false,
+        "bg": [
+        ]
+    }
+]

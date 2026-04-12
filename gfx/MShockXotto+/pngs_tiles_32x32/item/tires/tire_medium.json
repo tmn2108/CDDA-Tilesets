@@ -1,0 +1,12 @@
+{
+    "id": [
+        "tire_medium",
+        "tire_medium_slick"
+    ],
+    "fg": [
+        "tire_medium"
+    ],
+    "rotates": false,
+    "bg": [
+    ]
+}
