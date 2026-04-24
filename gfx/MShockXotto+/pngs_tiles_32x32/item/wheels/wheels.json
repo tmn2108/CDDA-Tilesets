@@ -1,6 +1,7 @@
 [
     {
         "id": [
+			"wheel_slick",
             "deflated_wheel",
             "deflated_wheel_slick"
         ],
@@ -13,6 +14,10 @@
     },
     {
         "id": [
+			"wheel_bicycle",
+			"wheel_bicycle_or",
+			"wheel_motorbike",
+			"wheel_motorbike_or",
             "deflated_wheel_motorbike",
             "deflated_wheel_motorbike_or",
             "deflated_wheel_bicycle",
@@ -27,11 +32,39 @@
     },
     {
         "id": [
+			"wheel_wide",
+			"wheel_wide_or",
             "deflated_wheel_wide",
             "deflated_wheel_wide_or"
         ],
         "fg": [
             "deflated_wheel_wide"
+        ],
+        "rotates": false,
+        "bg": [
+        ]
+    },
+	{
+        "id": [
+            "wheel",
+			"wheel_small",
+			"wheel_barrow",
+            "wheel_10"
+        ],
+        "fg": [
+            "wheel"
+        ],
+        "rotates": false,
+        "bg": [
+        ]
+    },
+	{
+        "id": [
+            "wheel_caster",
+            "wheel_caster_large"
+        ],
+        "fg": [
+            "wheel_caster"
         ],
         "rotates": false,
         "bg": [
