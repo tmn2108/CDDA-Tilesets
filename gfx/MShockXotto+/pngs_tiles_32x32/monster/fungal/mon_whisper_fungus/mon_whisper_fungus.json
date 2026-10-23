@@ -1,0 +1,9 @@
+{
+  "id": "mon_whisper_fungus",
+  "fg": [
+    { "weight": 100, "sprite": "mon_whisper_fungus" },
+    { "weight": 1, "sprite": "mon_whisper_fungus_1" }
+  ],
+  "bg": [  ],
+  "rotates": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mon_fungal_blossom",
+  "fg": [
+    { "weight": 100, "sprite": "mon_fungal_blossom" },
+    { "weight": 1, "sprite": "mon_fungal_blossom_1" }
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}

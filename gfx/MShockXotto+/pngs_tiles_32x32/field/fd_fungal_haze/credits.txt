@@ -1,0 +1,1 @@
+Sprites modified from https://github.com/I-am-Erk/CDDA-Tilesets/tree/master/gfx/MShockXotto%2B/pngs_tiles_32x32/field/fd_dust by fris0uman

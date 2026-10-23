@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_marloss_tree",
+    "fg": "t_marloss_tree",
+    "bg": "t_fungus_64x80"
+  },
+  {
+    "id": "t_tree_fungal",
+    "fg": "t_tree_fungal",
+    "bg": "t_fungus_64x80"
+  }
+]

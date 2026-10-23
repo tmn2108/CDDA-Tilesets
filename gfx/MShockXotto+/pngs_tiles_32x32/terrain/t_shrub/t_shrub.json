@@ -22,6 +22,6 @@
   {
     "id": "t_shrub_fungal",
     "fg": [ "t_shrub_fungal" ],
-    "bg": [ "966_f_flower_fungal_1" ]
+    "bg": [ "t_fungus" ]
   }
 ]

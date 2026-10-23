@@ -1,0 +1,10 @@
+{
+  "id": "mon_fungaloid_young",
+  "fg": [
+    { "weight": 100, "sprite": "mon_fungaloid_young" },
+    { "weight": 10, "sprite": "mon_fungaloid_young_1" },
+    { "weight": 1, "sprite": "mon_fungaloid_young_2" }
+  ],
+  "bg": [  ],
+  "rotates": false
+}
